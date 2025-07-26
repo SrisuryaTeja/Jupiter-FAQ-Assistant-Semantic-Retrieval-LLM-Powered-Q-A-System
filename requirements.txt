@@ -1,0 +1,11 @@
+nest_asyncio
+playwright
+faiss-cpu
+numpy
+sentence-transformers
+requests
+dotenv
+langdetect
+googletrans
+ipykernel
+notebook
